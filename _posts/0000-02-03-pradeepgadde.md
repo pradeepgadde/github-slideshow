@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: presentation
 title: "Components!"
 ---
 When you deploy Kubernetes, you get a cluster.
